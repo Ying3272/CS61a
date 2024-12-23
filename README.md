@@ -1,5 +1,5 @@
 # CS61a
 
-Follow Berkeley-CS61a (https://cs61a.org/) and its projects.
+The projects of Berkeley-CS61a (https://cs61a.org/).
 
 Textbook: https://www.composingprograms.com/
